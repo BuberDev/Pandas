@@ -2,5 +2,21 @@
 
 <h3>1. Zaimportuj moduł pandas i nadaj mu standardowy alias. Do zmiennej fuel wczytaj zawartość pliku fuel.csv. Podczas wczytywania skorzystaj z dodatkowego argumentu low_memory=False. Wyświetl nagłówek tak utworzonego Data Frame</h3>
 
-<h3>1. 2. Jeśli chcesz w Jupyter Notebook zobaczyć więcej nazw kolumn zamiast kropeczek należy zmienić opcję max_columns. Wykonaj polecenie:
+<h3>2. Jeśli chcesz w Jupyter Notebook zobaczyć więcej nazw kolumn zamiast kropeczek należy zmienić opcję max_columns. Wykonaj polecenie:
 pd.options.display.max_columns=500</h3>
+
+<h3>3. Wyświetl 10 pierwszych pozycji i zwróć uwagę na to ile kolumn posiada ten plik</h3>
+
+<h3>4. Wyświetl 5 ostatnich wierszy</h3>
+
+<h3>5. Wczytaj do zmiennej fuel ponownie zawartość pliku fuel.csv, ale tym razem pobierz tylko następujące
+kolumny: 'Vehicle ID','Year','Make','Model','Class','Fuel Type','Combined MPG (FT1)'</h3>
+
+<h3>6. Wyświetl nagłówek data frame fuel. Zauważ jak jest zbudowany indeks</h3>
+
+<h3>7. Wczytaj do zmiennej fuel ponownie zawartość pliku fuel.csv, ale tym razem pobierz tylko następujące
+kolumny: 'Vehicle ID','Year','Make','Model','Class','Fuel Type','Combined MPG (FT1)'. Jako indeks wybierz
+'Vehicle ID'
+</h3>
+
+<h3>8. Wyświetl nagłówek data frame fuel. Zauważ jak jest zbudowany indeks</h3>
