@@ -7,6 +7,7 @@
 pd.options.display.max_columns=500</h3>
 
 <h3>3. Wyświetl 10 pierwszych pozycji i zwróć uwagę na to ile kolumn posiada ten plik</h3>
+<img width="990" alt="LAB!1:2" src="https://user-images.githubusercontent.com/92649325/202015652-82142f32-93c5-43cc-b005-3f77767488ba.png">
 
 <h3>4. Wyświetl 5 ostatnich wierszy</h3>
 
@@ -21,3 +22,4 @@ kolumny: 'Vehicle ID','Year','Make','Model','Class','Fuel Type','Combined MPG (F
 </h3>
 
 <h3>8. Wyświetl nagłówek data frame fuel. Zauważ jak jest zbudowany indeks</h3>
+<img width="991" alt="LAB1:3" src="https://user-images.githubusercontent.com/92649325/202015741-54ef0e29-3fca-4443-82bb-47a7d78b44dc.png">
