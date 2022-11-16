@@ -1,2 +1,2 @@
-<h1>1. LAB - Modyfikacja serii danych</h1>
+<h2>1. LAB1 - Modyfikacja serii danych</h2>
 
